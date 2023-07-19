@@ -3,7 +3,7 @@
 ## Características do indicador:
 Filtra os ativos que correspondem a 80% do volume médio negociado de toda a carteira IBOV e a correlação destes ativos com o próprio índice.
 - Utiliza-se do conceito de Pareto para filtro dos principais ativos.
-- Trata a correlação do preço de fechamento diário dos ativo para determinação da relação com o IBOV. 
+- Trata a correlação do preço de fechamento diário dos ativos para determinação da relação com o IBOV. 
 
 ## IDE utilizada:
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
